@@ -27,6 +27,6 @@ let pusing = cut.push('dearling');
 // console.log(pusing);
 console.log(cut);
 // important theme 
-let splc = book.splice(2, 2, 'sushil','tui amar');
+let splc = book.splice(2, 3, 'sushil','tui amar pagol');
 console.log(splc)
 console.log(book)
